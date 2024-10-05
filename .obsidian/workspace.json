@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "bf1465c3cad01aee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a94b3e6e2f192a42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d55378bd176591b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "les_images/2024-10-05_20-19.jpg"
+              }
+            }
+          },
+          {
+            "id": "1571978becd23300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "les conjugaisons/present de l'imperative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8bb96ce770df580",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa8720dec19e08a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "708088a9310f3f80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c071ee9debb3310",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc4214016af19b9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a1a6530672313b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2377d5f2785f8b89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e37ab6dd819f7ac0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "les conjugaisons/present de l'imperative.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db48fd466a462ab7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "les conjugaisons/present de l'imperative.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "106482842c0f8084",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51226c367be36bf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "les conjugaisons/present de l'imperative.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "1571978becd23300",
+  "lastOpenFiles": [
+    "les_images/2024-10-05_20-28.png",
+    "les_images/2024-10-05_20-27.png",
+    "les_images/2024-10-05_20-26.png",
+    "les_images/Pasted image 20241005202607.png",
+    "Pasted image 20241005202525.png",
+    "les_images/2024-10-05_20-19.jpg",
+    "les conjugaisons/present de l'imperative.md",
+    "les conjugaisons",
+    "les_images",
+    "les conjugaisons/Présent de l'indicatif.md",
+    "les_images/2024-10-05_20-14 1.jpg",
+    "les_images/2024-10-05_20-14.jpg",
+    "Pasted image 20241005201355.png",
+    "les_images/2024-10-05_20-08.jpg",
+    "2024-10-05_19-59.jpg"
+  ]
+}
