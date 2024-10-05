@@ -21,16 +21,24 @@
             "id": "1571978becd23300",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "les conjugaisons/present de l'imperative.md",
-                "mode": "source",
-                "source": false
+                "file": "les_images/2024-10-05_20-43.png"
+              }
+            }
+          },
+          {
+            "id": "aaf636d0e001a855",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "les_images/2024-10-05_21-40.png"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "les conjugaisons/present de l'imperative.md",
+                "file": "les_images/2024-10-05_21-40.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "les conjugaisons/present de l'imperative.md",
+                "file": "les_images/2024-10-05_21-40.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "les conjugaisons/present de l'imperative.md"
+                "file": "les_images/2024-10-05_21-40.png"
               }
             }
           }
@@ -157,10 +165,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1571978becd23300",
+  "active": "708088a9310f3f80",
   "lastOpenFiles": [
-    "les conjugaisons/Présent de l'indicatif.md",
+    "les conjugaisons/l'imparfait.md",
+    "les_images/2024-10-05_21-40.png",
+    "les_images/2024-10-05_21-38.png",
+    "les_images/2024-10-05_21-37.png",
+    "les_images/2024-10-05_20-43.png",
     "les conjugaisons/present de l'imperative.md",
+    "les conjugaisons/Présent de l'indicatif.md",
     "les_images/2024-10-05_20-28.png",
     "les_images/2024-10-05_20-27.png",
     "les_images/2024-10-05_20-26.png",
@@ -168,10 +181,6 @@
     "Pasted image 20241005202525.png",
     "les_images/2024-10-05_20-19.jpg",
     "les conjugaisons",
-    "les_images",
-    "les_images/2024-10-05_20-14 1.jpg",
-    "les_images/2024-10-05_20-14.jpg",
-    "Pasted image 20241005201355.png",
-    "les_images/2024-10-05_20-08.jpg"
+    "les_images"
   ]
 }
