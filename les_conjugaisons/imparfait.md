@@ -1,6 +1,6 @@
 -un fait ou action 
 qui a déja eu lieu
-mais qui peut encore se dérouler 
+mais qui peut encore se déroule 
 -et méme la répétition 
 -pour décrire une scène ou un paysage 
 - décrire une situation 
