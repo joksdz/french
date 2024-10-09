@@ -8,11 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d55378bd176591b",
+            "id": "e312ced88589853f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "les_images/2024-10-05_20-19.jpg"
               }
             }
@@ -33,14 +34,15 @@
             "state": {
               "type": "markdown",
               "state": {
+=======
+>>>>>>> refs/remotes/origin/master
                 "file": "les_conjugaisons/Présent_indicatif.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +61,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -167,6 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "aaf636d0e001a855",
   "lastOpenFiles": [
     "les_conjugaisons/present_imperative.md",
@@ -174,21 +177,40 @@
     "les_conjugaisons/Présent_indicatif.md",
     "les_images/2024-10-05_20-19.jpg",
     "les_conjugaisons/present de l'imperative.md",
+=======
+  "active": "e312ced88589853f",
+  "lastOpenFiles": [
+    "les_conjugaisons/le passé simple de indicatif.md",
+    "les_conjugaisons/imparfait.md",
+    "les_conjugaisons/Présent_indicatif.md",
+    "les_conjugaisons/present_imperatif.md",
+    "les_images/2024-10-05_20-08.jpg",
+    "les_images/2024-10-08_19-09.png",
+    "les_images/2024-10-08_19-08.png",
+    "les_images/2024-10-08_19-06.png",
+    "les_images/2024-10-05_20-14.jpg",
+    "les_images/2024-10-05_20-14 1.jpg",
+    "les_images/2024-10-05_20-19.jpg",
+    "les_images/Pasted image 20241005202607.png",
+    "2024-10-08_19-06.png",
+    "Pasted image 20241008185740.png",
+>>>>>>> refs/remotes/origin/master
     "les_conjugaisons/l'imparfait.md",
+    "les_conjugaisons/Présent_de_l'indicatif.md",
+    "les_conjugaisons/present de l'imperative.md",
     "les_conjugaisons/Présent de l'indicatif.md",
     "les_conjugaisons",
     "les conjugaisons/l'imparfait.md",
-    "les_images/2024-10-05_21-40.png",
-    "les_images/2024-10-05_21-38.png",
-    "les_images/2024-10-05_21-37.png",
-    "les_images/2024-10-05_20-43.png",
     "les conjugaisons/present de l'imperative.md",
     "les conjugaisons/Présent de l'indicatif.md",
+<<<<<<< HEAD
     "les_images/2024-10-05_20-28.png",
     "les_images/2024-10-05_20-27.png",
     "les_images/2024-10-05_20-26.png",
     "les_images/Pasted image 20241005202607.png",
     "Pasted image 20241005202525.png",
+=======
+>>>>>>> refs/remotes/origin/master
     "les conjugaisons",
     "les_images"
   ]
