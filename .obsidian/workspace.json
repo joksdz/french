@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conjugaison/imparfait.md",
+                "file": "conjugaison/présent impératif.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conjugaison/imparfait.md",
+                "file": "conjugaison/présent impératif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conjugaison/imparfait.md",
+                "file": "conjugaison/présent impératif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conjugaison/imparfait.md"
+                "file": "conjugaison/présent impératif.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "72db502c66c53bb5",
   "lastOpenFiles": [
-    "conjugaison/passé de l'indicatif.md",
     "conjugaison/présent de l'indicatif.md",
+    "conjugaison/passé de l'indicatif.md",
+    "conjugaison/imparfait.md",
     "conjugaison/présent impératif.md",
     "les_conjugaisons/Présent_indicatif.md",
     "les_conjugaisons/imparfait.md",
     "les_conjugaisons/present_imperatif.md",
     "les_conjugaisons/le passé simple de indicatif.md",
-    "conjugaison/imparfait.md",
     "conjugaison"
   ]
 }
